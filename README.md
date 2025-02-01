@@ -1,4 +1,4 @@
-# 🚀 Agentic AI – The Future of AI Automation
+# 🚀 Agentic AI – Obfuscated Code
 
 ![Agentic AI Banner](https://agenticai.onl/assets/banner.png)
 
@@ -28,15 +28,8 @@ Coming soon...
 ### **Backend**
 - 🐍 **Flask (Python)**
 - 🔥 **Gunicorn for fast API responses**
-- 🤖 **OpenAI GPT-4 API**
 - 🌍 **Pyppeteer-based web scraping**
 - ☁ **Hosted on Railway**
 
----
 
-## 📥 Installation & Setup
 
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/Chef-Ski/Agentic-AI.git
-cd Agentic-AI
