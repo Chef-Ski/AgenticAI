@@ -1,6 +1,6 @@
 # 🚀 Agentic AI – Obfuscated Code
 
-![Agentic AI Banner](https://agenticai.onl/assets/banner.png)
+
 
 **Agentic AI** is a next-generation AI platform designed to automate digital interactions, generate AI-driven content, and create fully autonomous agent networks.
 
